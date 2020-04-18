@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+form{
+    margin: 0 auto;
+    margin-top: 20px;
+}
+li{
+    text-decoration: none;
+    text-align: left;
+    
+}
+h2{
+    text-align: left;
+}
+ul{
+    list-style: none;
+    width: 70%;
+    margin: 0 auto;
+}
